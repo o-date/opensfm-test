@@ -1,0 +1,6 @@
+opencv
+numpy
+scipy
+cmake
+libeigen3-dev
+opengv
